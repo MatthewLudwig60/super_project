@@ -3,10 +3,10 @@
 We need to plan stage 1 of this project. Stage 1 involves the following activities:
 
 1. Install the cupboards
-1. Install the drawers
-1. Paint the ceiling
-1. Tile the walls
-1. Install the counter tops
-1. Install the oven
-1. Install the fridge
+2. Install the drawers
+3. Paint the ceiling
+4. Tile the walls
+5. Install the counter tops
+6. Install the oven
+7. Install the fridge
 
