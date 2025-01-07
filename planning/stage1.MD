@@ -7,8 +7,5 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 3. Paint the ceiling
 4. Tile the walls
 5. Install the counter tops
-6. Install the gas oven
+6. Install the oven
 7. Install the fridge
-8. Install catflap and food bowl
-
-Check over all outstanding issues.
