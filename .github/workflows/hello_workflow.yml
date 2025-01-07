@@ -1,4 +1,4 @@
-name: hello_workflow
+name: array_test_workflow
 on: [push]
 jobs:
   print-hello:
@@ -6,6 +6,5 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
-      - run: pip install numpy
-      - run: pip install matplotlib	
-      - run: python add.py
+      - run: pip install pytest	
+      - run: python test_add.py

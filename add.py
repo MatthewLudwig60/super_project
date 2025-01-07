@@ -1,8 +1,5 @@
-import numpy as np
-import matplotlib.pyplot as plt
-
-a = np.array([1, 2, 3])
-print(2*a)
-plt.figure()
-plt.plot(a, 2*a)
-plt.show(block=True)
+def add_arrays(x, y):
+    z = []
+    for x_, y_ in zip(x, y):
+        z.append(x_ + y_)
+    return z
