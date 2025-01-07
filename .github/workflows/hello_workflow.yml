@@ -1,7 +1,7 @@
 name: array_test_workflow
 on: [push]
 jobs:
-  print-hello:
+  PyTest:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
