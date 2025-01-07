@@ -10,7 +10,7 @@ def test_add_arrays(a, b, expect):
 
 def test_add_arrays_error():
     a = [1, 2, 3]
-    b = [4, 5]
-    with pytest.raises(ValueError):
+    b = [4, 5, 'a']
+    with pytest.raises(TypeError):
         output = add_arrays(a, b)
 
