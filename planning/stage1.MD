@@ -9,4 +9,4 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 5. Install the counter tops
 6. Install the gas oven
 7. Install the fridge
-
+8. Install catflap and food bowl
